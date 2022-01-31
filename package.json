@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@storybook/addon-postcss": "^2.0.0",
     "storybook-css-modules-preset": "^1.1.1"
   }
 }
